@@ -1,3 +1,4 @@
+// MongoDB Users Schema
 const mongoose = require('mongoose');
 const { string } = require('@hapi/joi');
 const userSchema = new mongoose.Schema({
